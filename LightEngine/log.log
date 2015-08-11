@@ -1,0 +1,40 @@
+Utilities initialized successfully.
+Starting GLFW context, OpenGL 3.3.
+GLFW Window created successfully.
+GLEW initialized successfully.
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+Engine intialization complete.
+Callback functions successfully set.
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+Textures loaded.
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+Buffers initialized.
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+Depth Maps Generated.
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+Engine shutdown complete.
