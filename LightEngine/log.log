@@ -1,0 +1,133 @@
+===Initializing Engine===
+Utilities initialized successfully.
+Starting GLFW context, OpenGL 3.3.
+GLFW Window created successfully.
+GLEW initialized successfully.
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+Engine intialization complete.
+Particle Texture loaded successfully.
+Particle System initiailized successfully.
+Callback functions successfully set.
+
+===Basic Shader===
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+
+===Back Wall RenderObject===
+Textures loaded and set successfully.
+Vertex data loaded.
+RenderObject created successfully.
+
+===Front Wall RenderObject===
+Textures loaded and set successfully.
+Vertex data loaded.
+RenderObject created successfully.
+
+===Left Wall RenderObject===
+Textures loaded and set successfully.
+Vertex data loaded.
+RenderObject created successfully.
+
+===Right Wall RenderObject===
+Textures loaded and set successfully.
+Vertex data loaded.
+RenderObject created successfully.
+
+===Floor RenderObject===
+Textures loaded and set successfully.
+Vertex data loaded.
+RenderObject created successfully.
+
+===Point Light Shader===
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+
+===Skybox Shader===
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+
+===Skybox===
+Skybox setup complete.
+Skybox cubemap generated successfully.
+
+===Post Processing Shader===
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+
+===Liberty Statue Model===
+Texture Loaded.
+Mesh Generated.
+Mesh Generated.
+Mesh Generated.
+Texture Loaded.
+Mesh Generated.
+Mesh Generated.
+Texture Loaded.
+Mesh Generated.
+Texture Loaded.
+Mesh Generated.
+Mesh Generated.
+Mesh Generated.
+Model loaded successfully.
+
+===Nanosuit Model===
+Texture Loaded.
+Texture Loaded.
+Mesh Generated.
+Texture Loaded.
+Texture Loaded.
+Texture Loaded.
+Mesh Generated.
+Texture Loaded.
+Texture Loaded.
+Texture Loaded.
+Mesh Generated.
+Mesh Generated.
+Texture Loaded.
+Texture Loaded.
+Texture Loaded.
+Mesh Generated.
+Texture Loaded.
+Texture Loaded.
+Texture Loaded.
+Mesh Generated.
+Texture Loaded.
+Texture Loaded.
+Texture Loaded.
+Mesh Generated.
+Model loaded successfully.
+
+===Model Loading Shader===
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+
+===Particle Shader===
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+
+===Shadow Mapping Shader===
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+
+===Environment Shader===
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+Buffers initialized.
+
+===Point Depth Shader===
+Vertex Shader Compilation Successful.
+Fragment Shader Compilation Successful.
+Shader Program Linking Successful.
+Depth Maps Generated.
+Engine shutdown complete.
+Particle System destructed.
